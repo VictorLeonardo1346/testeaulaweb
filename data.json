@@ -1,0 +1,7 @@
+{
+  "products":[
+    {"id":1,"name":"GTX 750","price":499.99},
+    {"id":2,"name":"apontador","price":10.99},
+    {"id":3,"name":"lapis","price":5.00}
+  ]
+}
